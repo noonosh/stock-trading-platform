@@ -145,6 +145,10 @@ The application includes comprehensive tests demonstrating:
 - **Mocking**: Using Mockito for dependency isolation
 - **Test-Driven Development**: Tests written to drive design
 
+![Architecture Diagram](img/general_test_cvg_report.png)
+
+![Database Schema](img/stock_test_cvg_report.png)
+
 Key test classes:
 
 - `StockTest` - Domain model tests
@@ -253,10 +257,3 @@ frontend/src/
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- Spring Boot team for the excellent framework
-- React and Next.js communities
-- Tailwind CSS for the utility-first CSS framework
-- All open-source contributors who made this project possible
